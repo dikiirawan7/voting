@@ -1,5 +1,5 @@
 <?php
-//diki irawan
+//diki irawan ganteng gitu lho
 
     include('config/koneksi.php');
     if(isset($_POST['cari_keyword']))
